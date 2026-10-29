@@ -1,0 +1,6 @@
+# No extra packages required for phishing_checker.py
+# It uses only Python's built-in standard library: re, urllib.parse
+
+# The advanced version (phishing_detector_advanced.py) uses one optional
+# third-party package for HTTP header analysis:
+requests
