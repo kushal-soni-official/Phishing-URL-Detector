@@ -321,7 +321,7 @@ For real-time phishing detection and verification, also use:
 ## Author
 
 **Kushal Soni**
- GitHub: [kushal-soni-official](https://github.com/kushal-soni-official)
+|| GitHub: [kushal-soni-official](https://github.com/kushal-soni-official)
 
 ---
 
